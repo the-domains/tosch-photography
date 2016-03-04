@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tosch Photography]]></title>
         <description><![CDATA[Tosch Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://toschphotography.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 00:33:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 01:11:14 GMT</lastBuildDate>
+        <atom:link href="http://toschphotography.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f8fb17b-8ecb-4206-b2b4-e39e13143e64.jpg">]]></description>
+            <link>http://toschphotography.com.au/68194ed6-9f67-4a02-9781-77dba72e41ae/index.html</link>
+            <guid isPermaLink="false">68194ed6-9f67-4a02-9781-77dba72e41ae</guid>
+            <pubDate>Fri, 04 Mar 2016 01:07:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Tosch photography has moved.  Check back here as I revisit and republish every wedding I have ever had the privilege of covering.</p>]]></description>
-            <link>undefined53cd8d92-4eeb-4035-a646-7315ed82ec30/index.html</link>
+            <link>http://toschphotography.com.au/53cd8d92-4eeb-4035-a646-7315ed82ec30/index.html</link>
             <guid isPermaLink="false">53cd8d92-4eeb-4035-a646-7315ed82ec30</guid>
             <pubDate>Fri, 04 Mar 2016 00:32:44 GMT</pubDate>
         </item>
