@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tosch Photography]]></title>
+        <description><![CDATA[Tosch Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 00:33:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tosch photography has moved.  Check back here as I revisit and republish every wedding I have ever had the privilege of covering.</p>]]></description>
+            <link>undefined53cd8d92-4eeb-4035-a646-7315ed82ec30/index.html</link>
+            <guid isPermaLink="false">53cd8d92-4eeb-4035-a646-7315ed82ec30</guid>
+            <pubDate>Fri, 04 Mar 2016 00:32:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
